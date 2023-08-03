@@ -20,7 +20,7 @@ Once you've done that, open the terminal and run `npm install` to install the de
 <br />
 
 ## Usage
-[Link to video walkthrough]() <br />
+[Link to video walkthrough](https://youtu.be/4JSDb8Yo9NU) <br />
 
 Make sure you have Node.js Installed.<br /><br />
 Run `node index.js` to start the program<br /><br />
