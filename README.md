@@ -1,11 +1,11 @@
 
   
-  # BigTest
+  # Big Test
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
   
   ## Description
-  Testing my README Gen
+  Testing functionality of README Generator
   
   ## Table of Contents
   1. [Installation](#installation)
@@ -16,13 +16,13 @@
   6. [License](#license)
   
   ## Installation
-  do npm install
+  Run npm install
   
   ## Usage
-  just gotta clone repo and run npm install and node index.js
+  run node index.js
   
   ## Contributions
-  please dont contribute
+  no contributions
   
   ## Tests
   no tests
