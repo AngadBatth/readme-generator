@@ -1,0 +1,24 @@
+{
+    "name": "readme-generator",
+    "version": "1.0.0",
+    "description": "A Simple program used to generate a README file for a repository",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AngadBatth/readme-generator.git"
+    },
+    "bugs": {
+      "url": "https://github.com/AngadBatth/readme-generator/issues"
+    },
+    "homepage": "https://github.com/AngadBatth/readme-generator#readme",
+    "keywords": [],
+    "author": "AngadBatth",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "8.2.4"
+    }
+  }
